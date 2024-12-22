@@ -1,0 +1,32 @@
+.Heading {
+    color: rgb(7, 10, 166);
+}
+
+.button {
+    color: aqua;
+    background-color: black;
+}
+
+.button .butter{
+    color: aquamarine;
+}
+
+.button .lasagna{
+    color: rgb(185, 255, 127);
+}
+
+.button .samosa{
+    color: rgb(255, 174, 127);
+}
+
+p {
+    color: rgb(7, 10, 166);
+}
+
+h2 {
+    color: rgb(7, 161, 166);
+}
+
+h3 {
+    color: rgb(112, 0, 82);
+}
